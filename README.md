@@ -14,6 +14,13 @@ I'm Sidhartha Mohanty, a passionate Data Scientist. I can do magic with data. He
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-sid&layout=compact&theme=radical)
 
+## 📝 Latest Blog Posts
+
+- [Gradient descent from scratch](https://medium.com/@mohanty93/gradient-descent-from-scratch-2807e6e05bfe)
+- [Backpropagation in neural networks from scratch](https://medium.com/@mohanty93/backpropagation-in-neural-networks-from-scratch-f247ed37e5c8)
+- [Training a single perceptron from scratch](https://medium.com/@mohanty93/training-a-single-perceptron-from-scratch-e62f2e80fe52)
+- [Creating a RAG application from scratch](https://medium.com/@mohanty93/creating-a-rag-application-from-scratch-4e800e681113)
+
 ## 📫 Contact
 
 - Email: sidhartha.mohanty93@gmail.com
