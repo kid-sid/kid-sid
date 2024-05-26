@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Sidhartha Mohanty, a passionate Data Scientist. I can do magic with data. Here to share my work with all.
+I'm Sidhartha Mohanty, a passionate Data Scientist from India. I like coding, reading, blogging and learning new technologies 
 
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL, Pyspark
 - **Frameworks:** Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Pytorch, Keras, Spacy, Scikit-learn, Langchain
-- **Tools:** Databricks, Anaconda, Git, Docker, VS Code
+- **Tools:** Databricks, Anaconda, Git, Docker, VS Code, FastAPI
 
 ## 📊 GitHub Stats
 
