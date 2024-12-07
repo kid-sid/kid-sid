@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sidhartha Mohanty, a passionate Data Scientist from India. I like coding, reading, blogging and learning new technologies 
+I'm Sidhartha Mohanty, a passionate Data Scientist from India. I like coding, reading, blogging and learning new technologies.
 
 ## 🛠️ Skills
 
