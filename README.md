@@ -8,10 +8,6 @@ I'm Sidhartha Mohanty, a passionate Data Scientist from India. I like coding, re
 - **Frameworks:** Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Pytorch, Keras, Spacy, Scikit-learn, Langchain
 - **Tools:** Databricks, Anaconda, Git, Docker, VS Code, FastAPI
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kid-sid&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-sid&layout=compact&theme=radical)
 
 ## 📝 Latest Blog Posts
